@@ -65,21 +65,21 @@ Puedes contactarme a través de los siguientes medios:
 <div align="center">
 
   <!-- Sección de Email -->
-  <a href="mailto:luis.asprilla@est.iudigital.edu.co" style="text-decoration: none;">
+  <a href="mailto:andresf.asprilla@udea.edu.co" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br><br>
 
   <!-- Sección de GitHub -->
-  <a href="https://github.com/LuisDavidaspr2003?tab=repositories" style="text-decoration: none;">
+  <a href="https://github.com/Andresf-Asprilla?tab=repositories" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br><br>
 
   <!-- Sección de LinkedIn -->
-  <a href="https://www.linkedin.com/in/luis-david-asprilla-mosquera-87b0ba23b" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/andres-felipe-asprilla-mosquera-ba4471304/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
