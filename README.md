@@ -66,7 +66,7 @@ Puedes contactarme a través de los siguientes medios:
   <br><br>
 
   <!-- Sección de LinkedIn -->
-  <a href="https://www.linkedin.com/in/luis-david-asprilla-mosquera-87b0ba23b" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/andres-felipe-asprilla-mosquera-ba4471304" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
