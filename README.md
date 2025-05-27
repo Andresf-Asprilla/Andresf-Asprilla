@@ -52,7 +52,7 @@ Puedes contactarme a través de los siguientes medios:
 <div align="center">
 
   <!-- Sección de Email -->
-  <a href="mailto:luis.asprilla@est.iudigital.edu.co" style="text-decoration: none;">
+  <a href="mailto:andresf.asprilla@udea.edu.co" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
