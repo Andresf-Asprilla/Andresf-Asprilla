@@ -45,7 +45,7 @@ Estas son algunas de las tecnologías con las que trabajo:
 ### 🌐 Proyecto 4: **App de Traduccion de Idiomas**
 - **Descripción**: Esta es una aplicación de escritorio que utiliza la librería deep_translator para acceder a diferentes servicios de traducción, como Google y MyMemory. Además, emplea PySide como herramienta para la construcción de la interfaz de usuario.
 - **lenguaje y librerias adicionales**: Python,gTTS,playsound.
-- **[Ver Proyecto](https://github.com/Andresf-Asprilla/L_DE_SA_react)**
+- **[Ver Proyecto](https://github.com/Andresf-Asprilla/ProjectTtraductor)**
 
 
 ---
