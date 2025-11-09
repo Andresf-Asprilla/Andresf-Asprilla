@@ -8,13 +8,11 @@
 Estas son algunas de las tecnologías con las que trabajo:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/3D%20Slicer-005C9C?style=for-the-badge&logoColor=white" alt="3D Slicer" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
@@ -44,6 +42,13 @@ Estas son algunas de las tecnologías con las que trabajo:
 
 ---
 
+### 🌐 Proyecto 4: **App de Traduccion de Idiomas**
+- **Descripción**: Esta es una aplicación de escritorio que utiliza la librería deep_translator para acceder a diferentes servicios de traducción, como Google y MyMemory. Además, emplea PySide como herramienta para la construcción de la interfaz de usuario.
+- **lenguaje y librerias adicionales**: Python,gTTS,playsound.
+- **[Ver Proyecto](https://github.com/Andresf-Asprilla/L_DE_SA_react)**
+
+
+---
 
 ## 📫 Contacto
 
